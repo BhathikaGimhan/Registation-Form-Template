@@ -2,7 +2,7 @@
 
 <h1>Registation Form Template</h1>
 <h3><b>Technology: </b>Laravel, PHP, CSS, JQuery, JavaScript</h3>
-
+<h1></h1>
 <img src="https://user-images.githubusercontent.com/74421641/205503587-4580a443-e935-4908-a953-24272dcf3eac.png">
 <img src="https://user-images.githubusercontent.com/74421641/205503586-2c8fcda8-c842-4034-b2b6-33a9e1f3213f.png">
 <img src="https://user-images.githubusercontent.com/74421641/205503581-e08f9c55-4a10-48fe-8c24-f87254e703b8.png">
